@@ -1,0 +1,15 @@
+
+.root {
+    -fx-background-color:#404040;
+}
+
+.label {
+    -fx-font-smoothing-type: gray;
+    -fx-text-fill:#ffffff;
+    -fx-font-family:FrizQuadrata;
+    -fx-font-size:  22px;
+}
+
+.text{
+    -fx-font-smoothing-type: gray;
+}
